@@ -1,1 +1,1 @@
-# SCT_WD_1
+Smart Control of Traffic Light using AI
